@@ -4,7 +4,7 @@
   
 
 ### <div align="center">👋 Hey, I'm Sabarish M! </div>
-<div align="center"> Mastering the craft of systems - learning, coding, fixing things! </div>
+<div align="center"> Learning, coding, fixing things! </div>
 
 
 <br/>  
