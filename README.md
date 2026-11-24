@@ -11,7 +11,7 @@ TypeScript · Node.js · Express · React · PostgreSQL
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabarish-codes&theme=default&show_icons=true&hide_border=true&count_private=true&hide_title=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabarish-codes&theme=default&show_icons=true&hide_border=true&count_private=true&hide_title=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=sabarish-codes&theme=default&hide_border=true" width="48%" />
 </div>
 
